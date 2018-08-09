@@ -46,8 +46,7 @@ gulp.task('hbs', function () {
 gulp.task('connect', function() {
     connect.server({
         root: ['dist'],
-        port: 8000,
-        open: { browser: 'Google Chrome' }
+        port: 8000
     });
 })
 
