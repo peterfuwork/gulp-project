@@ -8,3 +8,6 @@
 2. npm install
 3. npm start (checkout localhost:8000)
 
+## Livereload:
+- In Chrome, add LiveReload extension to make the gulp-watch to automatically reload on browser.
+
